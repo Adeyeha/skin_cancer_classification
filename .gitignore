@@ -1,0 +1,15 @@
+__pycache__/
+build/
+dist/
+docs/_build/
+.venv/
+imgs/
+* *.egg-info/
+*.DS_Store
+*.coverage
+*.cache
+*.h5
+*.ipynb_checkpoints
+*.zip
+*.tflite
+data_processing.ipynb
