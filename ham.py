@@ -84,4 +84,4 @@ def get_default_dataset():
     test = pd.read_csv('https://drive.google.com/uc?id=' + '1kYWB6TAoQbaZHtQycE1Jue0lUKc62IV7')
     train_meta = pd.read_csv('https://drive.google.com/uc?id=' + '1x5hrResjvpGAu-xVkJJH-hT1q4wx6xco')
     test_meta = pd.read_csv('https://drive.google.com/uc?id=' + '1gONzrx2LBFRpIsajIc12yEnOA-axPSyt')
-    return train,test,train,test,train_meta,test_meta
+    return train,test,train_meta,test_meta
