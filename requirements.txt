@@ -4,3 +4,4 @@ pandas
 gdown
 tensorflow
 seaborn
+opencv-contrib-python
